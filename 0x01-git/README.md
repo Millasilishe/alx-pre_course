@@ -1,2 +1,2 @@
 I have done this project to learn 
-everthing about version control.
+everthing about version control git.
